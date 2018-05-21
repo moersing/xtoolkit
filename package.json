@@ -1,5 +1,5 @@
 {
-  "name": "xtoolkit",
+  "name": "@find/xtoolkit",
   "version": "1.0.6",
   "bin": "bin/xtoolkit.js",
   "description": "a toolkit for creating toolkit",
